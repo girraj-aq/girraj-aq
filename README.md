@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @girraj-aq
-- 👀 I’m interested in It work
+- 👀 I’m interested in IT work
 - 🌱 I’m currently learning React js, Node Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
